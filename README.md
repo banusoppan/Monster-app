@@ -1,9 +1,9 @@
 This project was created to recall reactJS
 
 Functionality
-    Display list of monsters
-    Search the monster based on name
+    1)Display list of monsters <br/>
+    2)Search the monster based on name <br/>
 
 Steps to Run
-    1) npm install
-    2) npm start
+    1) npm install <br/>
+    2) npm start <br/>
